@@ -19,3 +19,15 @@ O QUE APRENDEMOS NA 1º AULA:
 
 4)- Operadores aritméticos
 
+5)- Const e let
+
+6)- Case Sensitive
+
+7)- Adicionando comentários
+
+8)- parseInt e parseFloat
+
+9)- Usando números com casa decimal
+
+10)- Atribuição de variáveis
+
