@@ -16,4 +16,6 @@ console.log("Destinos possiveis");
 console.log(listaDeDestinos);
 
 
-listaDeDestinos
+listaDeDestinos.splice(1,1)
+console.log(listaDeDestinos);
+console.log(listaDeDestinos[1],  listaDeDestinos[0]);
