@@ -31,3 +31,14 @@ O QUE APRENDEMOS NA 1º AULA:
 
 10)- Atribuição de variáveis
 
+11)- O que aprendemos nessa aula:
+
+12)- Criação de Arrays;
+
+13)- Inserção de itens em um array;
+
+14)- Array splice;
+
+15)- Palavras reservadas;
+
+16)- Indices do array;
