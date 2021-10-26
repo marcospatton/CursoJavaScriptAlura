@@ -1,4 +1,4 @@
-console.log(`Trabalhando com listas`);
+console.log(`Trabalhando com CONDICIONAIS`);
 const salvador = `Salvador`;
 const saoPaulo = `São Paulo`;
 const rioDeJaneiro = `Rio de Janeiro`;
@@ -16,6 +16,6 @@ console.log("Destinos possiveis");
 console.log(listaDeDestinos);
 
 
-listaDeDestinos.splice(1,1)
+listaDeDestinos.splice(1,1)//remover items
 console.log(listaDeDestinos);
 console.log(listaDeDestinos[1],  listaDeDestinos[0]);
