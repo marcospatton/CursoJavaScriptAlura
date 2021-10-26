@@ -42,3 +42,13 @@ O QUE APRENDEMOS NA 1º AULA:
 15)- Palavras reservadas;
 
 16)- Indices do array;
+
+17)- If e Else
+
+18)- Operadores lógicos
+
+19)- if encadeado
+
+20)- else if
+
+21)- && e ||
