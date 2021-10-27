@@ -31,24 +31,34 @@ O QUE APRENDEMOS NA 1º AULA:
 
 10)- Atribuição de variáveis
 
-11)- O que aprendemos nessa aula:
+11)- While;
 
-12)- Criação de Arrays;
+12)- Break;
 
-13)- Inserção de itens em um array;
+13)- Usando o Debbuger do VS Cde;
 
-14)- Array splice;
+14)- Entendendo o fluxo de execução do código;
 
-15)- Palavras reservadas;
+15)- configurando o debbuger do VSCode;
 
-16)- Indices do array;
+16)- For Loop;
 
-17)- If e Else
+17)- Criação de Arrays;
 
-18)- Operadores lógicos
+18)- Inserção de itens em um array;
 
-19)- if encadeado
+19)- Array splice;
 
-20)- else if
+20)- Palavras reservadas;
 
-21)- && e ||
+21)- Indices do array;
+
+22)- If e Else
+
+23)- Operadores lógicos
+
+24)- if encadeado
+
+25)- else if
+
+26)- && e ||
